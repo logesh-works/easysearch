@@ -1,3 +1,3 @@
 # SearchMe
 A open directory search engine .
-### https://logesh-works.github.io/SearchMe/
+### [Click Here to Visit website](https://logesh-works.github.io/easysearch/)
